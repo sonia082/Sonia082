@@ -2,23 +2,22 @@
 
 🎓 I'm a BSCS graduate from University of Mianwali (CGPA 3.40/4.0)
 
-🚀 My Final Year Project — AidLink (AI-Based Donation Platform)
-   • Built an AI verification module to validate recipient eligibility
-   • Implemented Tiny LLM for document parsing & OCR-based verification
-   • Integrated a chatbot to handle donor queries
+I mostly work on AI/ML stuff — Python, PyTorch, LLMs, and Computer Vision, with a bit of UI/UX design on the side.
 
-🐾 Pet Behavior Analysis — Computer Vision Project
-   • Trained an image-based ML model to classify pet moods (happy, sad, angry)
-   • Handled the full pipeline: data collection → preprocessing → training → evaluation
+I also use Figma for UI design and Canva when I want to put together quick visuals.
 
-🎨 UI/UX Design
-   • Design responsive layouts & interactive prototypes in Figma
-   • Focus on usability, accessibility, and clean visual hierarchy
+This is where I'll be uploading my AI/ML projects, experiments, and things I'm currently working on. Everything here is built and trained by me, from data to deployment.
 
-💡 What I Can Do:
-   🤖 Build Machine Learning & Deep Learning models (Python, PyTorch)
-   💬 Develop LLM-based apps & chatbots
-   👁️ Computer Vision projects (image classification)
-   🔗 RAG systems & GANs
-   🎨 UI/UX Design (Figma, Canva)
-   📄 OCR-based document verification systems
+## Tools & Tech
+
+- Python, PyTorch, Machine Learning, Deep Learning
+- LLM / Tiny LLM, RAG, GANs, Computer Vision
+- Figma, Canva
+- Git, GitHub
+
+## A Bit About Me
+
+- 🎓 BSCS graduate from University of Mianwali (CGPA 3.40/4.0)
+- 🤖 Building AidLink, an AI-based donation platform
+- 🐾 Trained a computer vision model to classify pet moods
+- 🎨 Also love designing clean, usable UI in Figma
